@@ -25,14 +25,17 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int textView1=0x7f070001;
-        public static final int textView2=0x7f070002;
-        public static final int webView1=0x7f070000;
+        public static final int checkBox1=0x7f070001;
+        public static final int checkBox2=0x7f070002;
+        public static final int checkBox3=0x7f070003;
+        public static final int checkBox4=0x7f070004;
+        public static final int checkBox5=0x7f070005;
+        public static final int checkBox6=0x7f070006;
+        public static final int sendButton=0x7f070007;
+        public static final int textView1=0x7f070000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int fragment_main=0x7f030001;
-        public static final int kod5=0x7f030002;
     }
     public static final class string {
         public static final int action_settings=0x7f050002;
