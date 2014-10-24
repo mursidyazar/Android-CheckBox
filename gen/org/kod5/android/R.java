@@ -31,7 +31,7 @@ public final class R {
         public static final int checkBox4=0x7f070004;
         public static final int checkBox5=0x7f070005;
         public static final int checkBox6=0x7f070006;
-        public static final int sendButton=0x7f070007;
+        public static final int showButton=0x7f070007;
         public static final int textView1=0x7f070000;
     }
     public static final class layout {

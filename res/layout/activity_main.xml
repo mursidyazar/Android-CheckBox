@@ -69,10 +69,10 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/sendButton"
+        android:id="@+id/showButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Gönder"
+        android:text="Cevapları Göster"
         android:layout_marginTop="10dp"
         android:layout_gravity="center_horizontal" />
 
